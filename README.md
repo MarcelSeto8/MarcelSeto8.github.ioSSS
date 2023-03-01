@@ -32,6 +32,8 @@ Y [ESTO](https://enti.cat) es otro enlace.
 
 ![KENNEN](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Kennen_Render.png/revision/latest?cb=20200318223339)
 ![POKEMONS](https://todoestrategia.es/blog/wp-content/uploads/2023/01/Squirtle-Bulbasaur-Pokemon.jpg)
+![CLASSE](./classe)
+
 ```kotlin
 fun main(){
 	print("Enter a number: ")
@@ -73,6 +75,7 @@ fun main(){
 | 4 | Messi | 44 | 32 |
 
 | id_character | name | age | level |
+| ---: | ---: | ---: | ---: |
 | ---: | ---: | ---: | ---: |
 | 1 | Eustaquio | 197 | 99 |
 | 2 | Mariana | 20 | 100 |
