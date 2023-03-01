@@ -45,3 +45,12 @@ fun main(){
 }
 ```
 
+### Listas de tareas
+
+- [ ] Primera tarea
+- [X] Segunda tarea
+- [ ] Tercera tarea
+
+## Carácteres extendidos
+
+:eggplant: :hot_face:
