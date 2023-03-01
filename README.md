@@ -32,7 +32,8 @@ Y [ESTO](https://enti.cat) es otro enlace.
 
 ![KENNEN](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Kennen_Render.png/revision/latest?cb=20200318223339)
 ![POKEMONS](https://todoestrategia.es/blog/wp-content/uploads/2023/01/Squirtle-Bulbasaur-Pokemon.jpg)
-
+![BULLDOG](https://previews.123rf.com/images/cole123rf/cole123rf0908/cole123rf090800007/5283795-bulldog-ingl%C3%A9s-durmiendo-con-gafas-y-una-novela-de-lectura.jpg)
+![PERRO_PANZON](https://heraldodemexico.com.mx/u/fotografias/m/2021/6/13/f1280x720-383580_515255_5050.jpg)
 ```kotlin
 fun main(){
 	print("Enter a number: ")
