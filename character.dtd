@@ -21,4 +21,6 @@ gender, height, weight, language, TieneLaESO?, weapons?)>
 <!ATTLIST height cm CDATA #REQUIRED>
 <!ATTLIST weight kg CDATA #REQUIRED>
 <!ATTLIST language abbrev CDATA #REQUIRED>
+<!ATTLIST language prefix CDATA #REQUIRED>
+
 <!ATTLIST weapon id_weapon CDATA #REQUIRED>

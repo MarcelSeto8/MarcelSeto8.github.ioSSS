@@ -11,7 +11,7 @@
 	<gender abbrev="N">Non-binary</gender> <!-- la abreviatura es N (es como la propiedad value de age) pero el concepto es Non-Binary -->
 	<height cm="130" />
 	<weight kg="80" />
-	<language abbrev="prt">Portugués</language>
+	<language abbrev="prt" prefix="+32">Portugués</language>
 	<TieneLaESO /> 
 	
 	<weapons>
