@@ -31,3 +31,17 @@ Esto es un enlace a la mejor web del mundo:
 Y [ESTO](https://enti.cat) es otro enlace.
 
 ![KENNEN](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Kennen_Render.png/revision/latest?cb=20200318223339)
+
+```kotlin
+fun main(){
+	print("Enter a number: ")
+
+	// reads line from standard input
+	val stringInput = readln()
+
+	var integer = stringInput.toInt()
+
+	println("You entered: $integer")
+}
+```
+
