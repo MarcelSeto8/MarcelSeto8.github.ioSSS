@@ -28,7 +28,7 @@ Esto es un enlace a la mejor web del mundo:
 
 [CondorChem](https://condorchem.com)
 
-Y [ESTO](https://enti.cat) es otro enlace.
+APUNTES [ESTO](https://docs.google.com/document/d/12UVaIpjYA7eKJqR1VlwiqFFe48XOeywlfHzuTEe4ObU/edit?usp=sharing) estan AQUI.
 
 ![KENNEN](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Kennen_Render.png/revision/latest?cb=20200318223339)
 ![POKEMONS](https://todoestrategia.es/blog/wp-content/uploads/2023/01/Squirtle-Bulbasaur-Pokemon.jpg)
