@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE character SYSTEM "character.dtd>
 <character id_character="1"> <!-- NO ES OBLIGATORIO, pero sirve internamente para que sepamos que personaje es y para relacionarlo con la BD-->
 
 	<name>Eustaquio</name> 
@@ -11,7 +12,14 @@
 	<height cm="130" />
 	<weight kg="80" />
 	<language abbrev="prt">Portugués</language>
+	<TieneLaESO /> 
 	
+	<weapons>
+		<weapon id_weapon="1" />
+		<weapon id_weapon="3" />
+		<weapon id_weapon="7" />
+		<weapon id_weapon="1" />
+	</weapons>
 	
 </character>
 
