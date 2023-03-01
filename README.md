@@ -21,3 +21,13 @@ Los _apuntes de_ DTD
 >> Esto es una cita dentro de una cita
 >
 > Seguimos
+
+---
+
+Esto es un enlace a la mejor web del mundo:
+
+[CondorChem](https://condorchem.com)
+
+Y [ESTO](https://enti.cat) es otro enlace.
+
+![KENNEN](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Kennen_Render.png/revision/latest?cb=20200318223339)
