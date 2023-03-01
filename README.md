@@ -31,7 +31,7 @@ Esto es un enlace a la mejor web del mundo:
 Y [ESTO](https://enti.cat) es otro enlace.
 
 ![KENNEN](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Kennen_Render.png/revision/latest?cb=20200318223339)
-
+![POKEMONS](https://todoestrategia.es/blog/wp-content/uploads/2023/01/Squirtle-Bulbasaur-Pokemon.jpg)
 ```kotlin
 fun main(){
 	print("Enter a number: ")
@@ -54,3 +54,20 @@ fun main(){
 ## Carácteres extendidos
 
 :eggplant: :hot_face:
+
+### Estilo de carácteres
+
+*cursiva* _cursiva_
+
+**negrita** __negrita__
+
+~~TACHADO~~
+
+~~***tachado negrita y cursiva***~~
+
+| id_character | name | age | level |
+| --- | --- | --- | --- |
+| 1 | Eustaquio | 197 | 99 |
+| 2 | Mariana | 20 | 100 |
+| 3 | Mortadelo | 100 | 1 |
+| 4 | Messi | 44 | 32 |
