@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<characters>
+	
+	<character id_character="1"> 
+		<name>Eustaquio</name> 
+		<surname>Mendoza</surname>
+		<age years="197" /> 
+		<race>Enano</race>
+		<class>Artificiero</class> 
+		<gender abbrev="N">Non-binary</gender> 
+		<height cm="130" />
+		<weight kg="80" />
+		<language abbrev="prt">Portugués</language>
+	</character>
+	
+	<character id_character="2">
+		<name>Mariana</name> 
+		<surname>Rajoya</surname>
+		<age years="1200" />
+		<race>Hada</race>
+		<class>Tank</class> 
+		<gender abbrev="F">Female</gender>
+		<height cm="25" />
+		<weight kg="3.4" />
+		<language abbrev="rou">Rumano</language>
+	</character>
+	
+	<character id_character="3">
+		<name>Mortadelo</name> 
+		<surname>Filemon</surname>
+		<age years="20" /> 
+		<race>Centauro</race>
+		<class>Arquero</class> 
+		<gender abbrev="M">Mascle</gender>
+		<height cm="350" />
+		<weight kg="200" />
+		<language abbrev="ell">Heleno</language>
+	</character>
+	
+	<character id_character="4">
+		<name>Messi</name> 
+		<surname>Ronaldo</surname>
+		<age years="50" />
+		<race>Gigante</race>
+		<class>Healer</class> 
+		<gender abbrev="N">Non-binary</gender> 
+		<height cm="160" />
+		<weight kg="100" />
+		<language abbrev="euk">Euskera</language>
+	</character>
+	
+</characters>

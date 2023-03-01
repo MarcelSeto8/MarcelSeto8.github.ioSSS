@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<character id_character="2">
+
+	<name>Mariana</name> 
+	<surname>Rajoya</surname>
+	<!-- SE PUEDE PONER LA EDAD TAMBIEN ASI -> <age>197</age> -->
+	<age years="1200" /> <!-- ETIQUETAS IMPARES CIERRAN EN SI MISMAS, PARA PARAMETROS CONCRETOS --> <!-- years es un atributo/propiedad y puede tener cualquier nombre -->
+	<race>Hada</race>
+	<class>Tank</class> 
+	<gender abbrev="F">Female</gender> <!-- la abreviatura es N (es como la propiedad value de age) pero el concepto es Non-Binary -->
+	
+	<height cm="25" />
+		
+	<weight kg="3.4" />
+	<language abbrev="rou">Rumano</language>
+	
+	
+</character>
+
+
+
+
+
+

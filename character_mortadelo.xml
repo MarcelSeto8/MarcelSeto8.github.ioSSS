@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<character id_character="3">
+
+	<name>Mortadelo</name> 
+	<surname>Filemon</surname>
+	<!-- SE PUEDE PONER LA EDAD TAMBIEN ASI -> <age>197</age> -->
+	<age years="20" /> <!-- ETIQUETAS IMPARES CIERRAN EN SI MISMAS, PARA PARAMETROS CONCRETOS --> <!-- years es un atributo/propiedad y puede tener cualquier nombre -->
+	<race>Centauro</race>
+	<class>Arquero</class> 
+	<gender abbrev="M">Mascle</gender> <!-- la abreviatura es N (es como la propiedad value de age) pero el concepto es Non-Binary -->
+	<height cm="350" />
+	<weight kg="200" />
+	<language abbrev="ell">Heleno</language>
+	
+	
+</character>
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<character id_character="4">
+
+	<name>Messi</name> 
+	<surname>Ronaldo</surname>
+	<!-- SE PUEDE PONER LA EDAD TAMBIEN ASI -> <age>197</age> -->
+	<age years="50" /> <!-- ETIQUETAS IMPARES CIERRAN EN SI MISMAS, PARA PARAMETROS CONCRETOS --> <!-- years es un atributo/propiedad y puede tener cualquier nombre -->
+	<race>Gigante</race>
+	<class>Healer</class> 
+	<gender abbrev="N">Non-binary</gender> <!-- la abreviatura es N (es como la propiedad value de age) pero el concepto es Non-Binary -->
+	<height cm="160" />
+	<weight kg="100" />
+	<language abbrev="euk">Euskera</language>
+	
+	
+</character>
+
+
+
+
+
+

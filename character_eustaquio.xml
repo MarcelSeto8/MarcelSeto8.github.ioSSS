@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<character id_character="1"> <!-- NO ES OBLIGATORIO, pero sirve internamente para que sepamos que personaje es y para relacionarlo con la BD-->
+
+	<name>Eustaquio</name> 
+	<surname>Mendoza</surname>
+	<!-- SE PUEDE PONER LA EDAD TAMBIEN ASI -> <age>197</age> -->
+	<age years="197" /> <!-- ETIQUETAS IMPARES CIERRAN EN SI MISMAS, PARA PARAMETROS CONCRETOS --> <!-- years es un atributo/propiedad y puede tener cualquier nombre -->
+	<race>Enano</race>
+	<class>Artificiero</class> 
+	<gender abbrev="N">Non-binary</gender> <!-- la abreviatura es N (es como la propiedad value de age) pero el concepto es Non-Binary -->
+	<height cm="130" />
+	<weight kg="80" />
+	<language abbrev="prt">Portugués</language>
+	
+	
+</character>
+
+
+
+
+
+
